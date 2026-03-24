@@ -1,4 +1,7 @@
+Documentation.md
 LICENSE
+MANIFEST.in
+Readme.md
 setup.py
 tkVideoPlayer/__init__.py
 tkVideoPlayer/tkvideoplayer.py
